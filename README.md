@@ -6,7 +6,7 @@ This portfolio showcases my introduction, frontend development skills, and proje
 
 ## 🚀 Live Demo
 
-🔗 **[Visit My Portfolio](https://mohd-aafak.github.io/my-portfolio/)**
+🔗 **[Visit My Portfolio](https://mohd-aafak.github.io/My-portfolio/)**
 
 ## 🛠️ Technologies Used
 
@@ -33,7 +33,7 @@ I'm Mohd Aafak, a B.Tech graduate (2026) passionate about frontend development. 
 
 ## 📬 Connect With Me
 
-- GitHub: [https://github.](https://github.com)/Mohd-Aafak
+- GitHub: [https://github.](https://github.com/Mohd-Aafak)
 
 ---
 
